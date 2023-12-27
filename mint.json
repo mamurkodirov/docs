@@ -19,17 +19,11 @@
     "name": "Get Started",
     "url": "https://datatruck.io"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://developer.datatruck.io/"
     },
     {
       "name": "API Reference",
